@@ -1,0 +1,8 @@
+{
+    "python.analysis.extraPaths": [
+        "${workspaceFolder}/src",
+        "${workspaceFolder}/src/bmg-common-library/src",
+        "./library",
+        "./lib_path"
+    ]
+}
